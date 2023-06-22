@@ -1,4 +1,3 @@
-# html-example
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -30,8 +29,8 @@
     <section>
     <!-- Articles - Start -->
     <article>
-        <h2>Birinci Yazı</h2>
-        <img src="https://picsum.photos/id/237/600/300
+        <h2>Hakkımızda</h2>
+        <img src="https://picsum.photos/id/37/600/300
         " alt="Yazı 1">
         <p>Lorem ipsum dolor sit amet.</p>
         <p>Lorem, ipsum dolor.</p>
@@ -43,32 +42,6 @@
             <li>Dolorem, accusantium!</li>
             <li>Earum, ullam!</li>
         </ol>
-        <hr>
-    </article>
-    <article>
-        <h2>İkinci Yazı</h2>
-        <img src="https://picsum.photos/id/137/600/300
-        " alt="Yazı 1">
-        <p>Lorem ipsum dolor sit amet.</p>
-        <p>Lorem, ipsum dolor.</p>
-        <p>Necessitatibus, iure explicabo.</p>
-        <p>Magnam, fugit necessitatibus.</p>
-        <ul>
-            <li>Lorem, ipsum.</li>
-            <li>A, facere!</li>
-            <li>Dolorem, accusantium!</li>
-            <li>Earum, ullam!</li>
-        </ul>
-        <hr>
-    </article>
-    <article>
-        <h2>Üçüncü Yazı</h2>
-        <img src="https://picsum.photos/id/23/600/300
-        " alt="Yazı 1">
-        <p>Lorem ipsum dolor sit amet.</p>
-        <p>Lorem, ipsum dolor.</p>
-        <p>Necessitatibus, iure explicabo.</p>
-        <p>Magnam, fugit necessitatibus.</p>
         <hr>
     </article>
     <!-- Articles - End -->
